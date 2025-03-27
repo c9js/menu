@@ -1,0 +1,8 @@
+{
+    "name": "b1d950544900490e",
+    "bin": "./entrypoint",
+    "dependencies": {
+        "mvc": "c9js/mvc",
+        "@inquirer/prompts": "3.3.2"
+    }
+}
